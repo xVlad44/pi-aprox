@@ -32,7 +32,7 @@ The app generates random points in a 2D plane and checks whether each point fall
      ```
 
 ## Live Demo
-You can access a live demo of the app [here](https://pi-approximation-app.herokuapp.com/).
+You can access a live demo of the app [here](https://xvlad44.github.io/pi-aprox-demo/).
 
 
 
