@@ -45,7 +45,7 @@ export default function Home() {
   }
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-            <h1 className="text-4xl font-bold text-center">Pi Aproximator</h1>
+            <h1 className="text-4xl font-bold text-center">Pi Approximation App</h1>
             <div className="text-center">
                 <Input type="text" value={count} onChange={inputChange}/>
                 <Button onClick={() => setCount(parseInt(count.toString())+1)}>Increment</Button>
